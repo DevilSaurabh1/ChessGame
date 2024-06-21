@@ -1,7 +1,4 @@
-Author: James Calcagni
-Created for: Rutgers CS-111 Summer 2019
-
---Built using IntelliJ
+--Built using VS code
 
 --How to Run:
 To run the game  download the 3 files (UserInterface.java, ChessGame.java, and ChessPieces.jpg) to the same folder.  
@@ -143,13 +140,3 @@ Youtube channels I found  helpful:
        - Great video for GUI
 ->TechQuerry: https://www.youtube.com/channel/UC9y4E0KEY7IbEPN9HfpFxrQ
 ->Just Nobody: https://www.youtube.com/user/AhmadIftikhar17
-
-Other websites I stumbled across:
--> Git Hub: https://github.com/psoder3/Program-Your-Own-Chess , many more
--> Stack exchange: (heres at least one link i looked over, may be more) https://codereview.stackexchange.com/questions/71790/design-a-chess-game-using-object-oriented-principles
--> Chess.com: https://www.chess.com/forum/view/general/lets-write-a-chess-gui-from-scratch-in-java
--> Harmonia Philosiphica: https://harmoniaphilosophica.com/2018/07/23/how-to-code-a-chess-program-in-one-day-c-and-java-examples/
--> Coderanch.com
--> probably many more...
-
-
